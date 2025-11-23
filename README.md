@@ -1,2 +1,3 @@
 # python_automation
-practicar automatización
+practicar automatizacion con python.
+Estoy editando el archivo README. Anadiendo mas detalles sobre la descripcion del proyecto.
